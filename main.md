@@ -1,6 +1,8 @@
 <html>
   <head>
-    Le Dico De Stelou
+    <title>
+      Le Dico de Stelou
+    </title>
   </head>
   <body>
     <h1>
